@@ -1,10 +1,56 @@
 body {
     background: lightcoral; 
+    font-family: 'Merienda', cursive;
 }
+h1 {font-family: 'Permanent Marker', cursive;
+}
+
+
 
 #Basketball {
     font-family: cursive;
 }
 #Music {
-    font-family: fantasy
+    font-family: cursive
+}
+
+@keyframes appear {
+    0%{
+        transform:scale(0.1) rotate(0deg);
+       
+    }
+    50%{
+        transform: scale(1.5) rotate(180deg);
+    }
+    100%{
+        transform: scale(1) rotate(360deg);
+        
+    }
+}
+#picture {
+     animation-name: appear;
+    animation-duration: 5s; 
+}
+
+a{
+font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Abel', sans-serif;
+width: 10%;
+padding: 1em;
+border-style: solid;
+border-color: black;
+border-width: 5px;
+margin: 1em;
+background-color:burlywood;
+}
+iframe{
+    margin-top: 25px;
+}
+a:hover{
+    border-color: burlywood;
+    background-color:black;
+}
+a:visited:hover{
+    color: goldenrod;
 }
