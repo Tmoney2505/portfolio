@@ -1,9 +1,0 @@
-########
-
-Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
-
-Grade: 100
-
-Comment:  Great job so far on the use of color, and you used transformations and animation well.
-
-I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
