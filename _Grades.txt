@@ -1,0 +1,41 @@
+Portfolio final grade:  90
+
+Comments:  Great work, you put a lot of effort in making the site look good and have a well composed theme.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 92
+(50% of overall grade)
+
+Points deducted for these items:
+
+  -4  Did not change the document title from the default on all pages.
+  -1  Missing Contact link on the contact.html page (since all other pages had all links, this one should have followed the same form.)
+  -2 CSS property font-family is repeated/unused on the a {} selector.
+  -1 Unused file left in the project (bout.html).
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 100
+(25% of overall grade)
+
+Points deducted for these items:
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 75
+(25% of overall grade)
+
+Points deducted for these items:
+
+  -50 points - No media selector / mobile design changes used. 
+
+Bonus Points awarded for these items:
+  +10 points for including both animations and transitions
+  +15 points for incoporating an animation not covered in class (rotate) and combining it with another animation.
